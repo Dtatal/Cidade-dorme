@@ -1,0 +1,16 @@
+{
+  "name": "bot_tata",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "chalk": "4",
+    "discord.js": "^14.14.1",
+    "natural": "^7.0.0"
+  }
+}
